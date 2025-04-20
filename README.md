@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Hi+there++%F0%9F%91%8B;+"I'm+Rohith+Varma K" alt="Typing SVG" /></a>
-
 <hr>
 
 I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
