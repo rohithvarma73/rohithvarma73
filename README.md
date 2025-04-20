@@ -28,7 +28,7 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 **JavaScript Libraries & Frameworks:** `React.js` `Next.js`
 
-**Backend Development:** `Node.js` `Express.js` `GraphQL`
+**Backend Development:** `Node.js` `Express.js`
 
 **API Development & Integration:** `RESTful APIs` `GraphQL`
 
