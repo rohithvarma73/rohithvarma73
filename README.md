@@ -18,7 +18,7 @@
 
 I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
 
-- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1nRo1aYJQ3xQ_qvFOXcnyLg_X8YUte7Lk/view?usp=sharing/)
+- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1icqMMUqzCwHr0mmN_-dGwEs-bO1kyq-x/view?usp=drive_link)
 
 ## 📦 Toolbox
 
