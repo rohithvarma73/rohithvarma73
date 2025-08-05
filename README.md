@@ -22,25 +22,30 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`
+## 🚀 Technical Skills
 
-**Programming Languages:** `TypeScript` `JavaScript` `Python`
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `Tailwind CSS` `Material-UI` `Bootstrap`  
 
-**JavaScript Libraries & Frameworks:** `React.js` 
+**Programming Languages:** `TypeScript` `JavaScript` `Java` `Python` `SQL`  
 
-**API Development & Integration:** `RESTful APIs` `GraphQL`
+**API Development & Integration:** `RESTful APIs` `GraphQL` `GraphQL Federation` `Postman` `Swagger` `OAuth 2.0` `Plaid` `Dwolla`  
 
-**Version Control & Collaboration:** `Git` `GitHub`
+**Backend & System Design:** `Microservices Architecture` `System Design` `Spring Boot` `JWT Authentication` `Distributed Systems`  
 
-**Databases & Data Management:** `MySQL` `MongoDB`
+**Databases & Data Management:** `MySQL` `MongoDB` `Redis` `NoSQL` `RDBMS Principles`  
 
-**Development Methodologies & Best Practices:** `Agile (Scrum, TDD, BDD)` `DevOps` `CI/CD Pipelines` `Software Engineering Principles (SOLID, Design Patterns, Clean Code)`
+**Cloud & Deployment Platforms:** `AWS (EC2, S3)` `Firebase` `Vercel` `Railway` `Appwrite`  
 
-**DevOps & Deployment:** `Docker` `CI/CD Pipelines` `GitHub Actions`
+**DevOps & CI/CD:** `Docker` `GitHub Actions` `CI/CD Pipelines` `Agile (Scrum)` `TDD` `BDD`  
 
-**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`
+**Version Control & Collaboration:** `Git` `GitHub`  
 
-**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming`
+**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`  
+
+**Security & Code Quality:** `Secure Coding Practices` `Static Code Analysis` `ESLint` `Prettier`  
+
+**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming (OOP)` `Design Patterns` `Clean Code Principles (SOLID)`
+
 
 ## ✨ Fun Facts
 
