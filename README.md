@@ -24,21 +24,19 @@ I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about b
 
 ## 🚀 Technical Skills
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `Tailwind CSS` `Material-UI` `Bootstrap`  
+**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`  
 
-**Programming Languages:** `TypeScript` `JavaScript` `Java` `Python` `SQL`  
+**Programming Languages:** `Java` `TypeScript` `JavaScript` `Python 3` `SQL`  
 
-**API Development & Integration:** `RESTful APIs` `GraphQL` `GraphQL Federation` `Postman` `Swagger` `OAuth 2.0` `Plaid` `Dwolla`  
+**Full-Stack Development & APIs:** `REST APIs` `GraphQL` `ReactJS` `UI/UX Fundamentals` `API Optimization`  
 
-**Backend & System Design:** `Microservices Architecture` `System Design` `Spring Boot` `JWT Authentication` `Distributed Systems`  
+**Data Engineering:** `MySQL` `MongoDB` `NoSQL design` `RDBMS Principles` `Database Performance Tuning`  
 
-**Databases & Data Management:** `MySQL` `MongoDB` `Redis` `NoSQL` `RDBMS Principles`  
+**Infrastructure & Deployment:** `Docker` `AWS (EC2, S3)` `Firebase` `Vercel` `CI/CD pipelines` `GitHub Actions` `Unix/Linux`  
 
-**Cloud & Deployment Platforms:** `AWS (EC2, S3)` `Firebase` `Vercel` `Railway` `Appwrite`  
+**System Design:** `Concurrent Data Structures` `Microservices Architecture` `Performance Optimization`
 
-**DevOps & CI/CD:** `Docker` `GitHub Actions` `CI/CD Pipelines` `Agile (Scrum)` `TDD` `BDD`  
-
-**Version Control & Collaboration:** `Git` `GitHub`  
+**DevOps & Process:** `Git` `Jira` `Agile/Scrum` `Postman` `Swagger` `ESLint` `Prettier` `PyTorch` `TensorFlow`  
 
 **Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`  
 
