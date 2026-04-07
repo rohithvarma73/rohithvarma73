@@ -15,41 +15,76 @@
 </p>
 
 <hr>
+## 👋 About Me
 
-I'm a 22-year-old Software Developer based in India 🇮🇳, passionate about building high-performance, scalable applications that solve real-world problems.
+I'm a **22-year-old Software Engineer** based in India 🇮🇳, with a B.Tech in Information Technology from **SRM Institute of Science and Technology**.
 
-- 📃 View the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1QanaO3pHj1iA7T2IJYBluG85huOkI4sR/view?usp=sharing)
+I worked as a **Product Development Intern at Comviva Technologies**, contributing to the **MTN MoMo fintech payment platform** - a large-scale distributed system deployed across multiple African OPCOs. My work spans production build validation, regression testing, defect identification across UAT/Pre-Prod/Production environments, and cross-functional collaboration within Agile release cycles.
 
-## 📦 Toolbox
+I'm passionate about building **high-performance, scalable backend systems** and have hands-on experience with microservices, cloud infrastructure, and DevOps practices.
 
-## 🚀 Technical Skills
+> 🏆 **Finalist — Google Cloud Agentic AI Hackathon** — designed scalable, cloud-native agentic solutions under real-world constraints.
 
-**Frontend Development:** `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`  
+---
 
-**Programming Languages:** `Java` `TypeScript` `JavaScript` `Python 3` `SQL`  
+## 🛠️ Technical Skills
 
-**Full-Stack Development & APIs:** `REST APIs` `GraphQL` `ReactJS` `UI/UX Fundamentals` `API Optimization`  
+### Languages
+`Java` `Python` `JavaScript (ES6+)` `TypeScript` `SQL`
 
-**Data Engineering:** `MySQL` `MongoDB` `NoSQL design` `RDBMS Principles` `Database Performance Tuning`  
+### Backend & System Design
+`REST APIs` `GraphQL` `Microservices Architecture` `Multithreading` `OOP & Design Patterns` `SOLID Principles` `Performance Optimization` `Concurrent Data Structures`
 
-**Infrastructure & Deployment:** `Docker` `AWS (EC2, S3)` `Firebase` `Vercel` `CI/CD pipelines` `GitHub Actions` `Unix/Linux`  
+### Databases
+`MySQL` `MongoDB` `NoSQL Design` `RDBMS Principles` `Database Performance Tuning`
 
-**System Design:** `Concurrent Data Structures` `Microservices Architecture` `Performance Optimization`
+### Cloud & DevOps
+`AWS (EC2, S3)` `Docker` `CI/CD Pipelines` `GitHub Actions` `Linux/Unix` `WSL (Ubuntu)` `Firebase` `Vercel`
 
-**DevOps & Process:** `Git` `Jira` `Agile/Scrum` `Postman` `Swagger` `ESLint` `Prettier` `PyTorch` `TensorFlow`  
+### Frontend & APIs
+`ReactJS` `HTML5` `CSS3` `Postman` `Swagger`
 
-**Operating Systems:** `Windows Subsystem for Linux (Ubuntu)` `Linux/Unix`  
+### Testing & Quality
+`Regression Testing` `Test Case Authoring` `Integration Testing` `Static Code Analysis` `ESLint` `Prettier` `Secure Coding Practices`
 
-**Security & Code Quality:** `Secure Coding Practices` `Static Code Analysis` `ESLint` `Prettier`  
+### ML / AI Tools
+`PyTorch` `TensorFlow`
 
-**Computer Science Fundamentals:** `Data Structures and Algorithms` `Object-Oriented Programming (OOP)` `Design Patterns` `Clean Code Principles (SOLID)`
+### Process & Collaboration
+`Git` `Jira` `Agile/Scrum`
 
+---
 
-## ✨ Fun Facts
+## 🚀 Featured Projects
 
-- 🎬 "The Pursuit of Happyness" & "The Internship" is my favorite movie.
-- 🍿 I prefer Hollywood movies over Bollywood.
-- 🧠 I enjoy absorbing knowledge from various sources, be it books, videos, conversations, tech talks, and real-world challenges.
+### 🫀 AI-Powered Heart Disease Prediction Platform
+A scalable health prediction system built with microservice APIs, ML inference, and performance-tuned database queries. Reduced API latency significantly through multithreading optimizations.
+- **Stack:** Python · REST APIs · MySQL · Docker · Microservices
+- **Highlights:** Multithreaded API design · ML integration · Query optimization
+
+---
+
+## 💼 Experience
+
+**Product Development Intern — Comviva Technologies**
+- Contributing to **MTN MoMo**, a fintech payment platform active across multiple African markets
+- Validating production builds and executing regression test suites across UAT, Pre-Prod, and Production environments
+- Authoring detailed test cases and identifying functional/integration defects in distributed systems
+- Working within structured Agile sprint cycles and coordinating with cross-functional engineering teams
+
+---
+
+## ✨ A Few Things About Me
+
+- 🎬 "The Pursuit of Happyness" & "The Internship" are personal favorites — hustle and curiosity resonate deeply
+- 🧠 Lifelong learner: books, tech talks, open-source contributions, real-world problem-solving
+- 🌍 Keen interest in systems that operate at scale — fintech, cloud infra, and distributed platforms
+- 🤝 Believer in clean code, honest documentation, and engineering that ships
+
+---
+
+## 📫 Let's Connect
+
 
 ## 📫 Contact
 
