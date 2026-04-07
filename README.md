@@ -23,6 +23,8 @@ I worked as a **Product Development Intern at Comviva Technologies**, contributi
 
 I'm passionate about building **high-performance, scalable backend systems** and have hands-on experience with microservices, cloud infrastructure, and DevOps practices.
 
+📄 **[View my Resume](https://drive.google.com/file/d/1gzATqiv0mVWUBmpOT9FB95CykyjTK6cb/view?usp=sharing)**
+
 > 🏆 **Finalist — Google Cloud Agentic AI Hackathon** — designed scalable, cloud-native agentic solutions under real-world constraints.
 
 ---
