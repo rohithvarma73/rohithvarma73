@@ -36,7 +36,7 @@ I care about clean code, system design, and shipping software that behaves well 
 ## Core Stack
 
 **Languages**  
-`Java` `Python` `JavaScript` `TypeScript` `SQL` `C/C++`
+`Java` `Python` `JavaScript` `TypeScript` `SQL` 
 
 **Backend**  
 `Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `WebFlux`
@@ -99,5 +99,4 @@ Worked on MTN MoMo fintech validation across UAT, pre-prod, and production envir
 <p align="center">
   <a href="mailto:rohithvarma73@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/rohithvarma73/">LinkedIn</a> •
-  <a href="https://github.com/rohithvarma73">GitHub</a>
 </p>
