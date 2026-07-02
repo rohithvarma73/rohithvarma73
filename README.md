@@ -57,7 +57,7 @@ I care about clean code, system design, and shipping software that behaves well 
 
 ## Featured Work
 
-### Nexus — Courier Tracking System
+### Nexus - Courier Tracking System
 A full-stack courier tracking platform built with Spring Boot 3, Thymeleaf, Spring Security 6, JPA, MySQL, Docker, Kubernetes, and Jenkins.
 
 - Role-based access for users and admins.
@@ -76,10 +76,10 @@ A REST-based prediction platform with MySQL, API automation, and performance tun
 
 ## Experience
 
-**Project Engineer — Wipro, Bangalore**  
+**Project Engineer - Wipro, Bangalore**  
 Working on Java, Spring Boot, microservices, CI/CD, and cloud-native development.
 
-**Product Development Intern — Comviva Technologies**  
+**Product Development Intern - Comviva Technologies**  
 Worked on MTN MoMo fintech validation across UAT, pre-prod, and production environments.
 
 ---
